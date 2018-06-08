@@ -16,7 +16,7 @@ namespace QuanLyHocSinhGiaoVien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmDN());
+            Application.Run(new frmDangNhap());
         }
     }
 }
