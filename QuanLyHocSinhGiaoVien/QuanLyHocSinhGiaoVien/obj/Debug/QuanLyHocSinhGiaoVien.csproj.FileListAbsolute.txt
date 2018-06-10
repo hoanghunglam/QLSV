@@ -1,1 +1,2 @@
 C:\Users\admin\Desktop\QLSV\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\bin\Debug\QuanLyHocSinhGiaoVien.exe.config
+C:\Users\Quan\Documents\GitHub\QLSV\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\bin\Debug\QuanLyHocSinhGiaoVien.exe.config
