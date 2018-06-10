@@ -28,9 +28,9 @@ namespace QuanLyHocSinhGiaoVien
             if (DangNhap.LoginHeThong(txtTenDN.Text, txtMK.Text) == true)
             {
                 MessageBox.Show("Đăng Nhập Thành Công", "Thông Báo");
-                //frmMain frm = new frmMain();
+                frmMain frm = new frmMain();
                 this.Hide();
-                //frm.Show();
+                frm.Show();
             }
             else
             {
